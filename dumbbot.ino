@@ -52,7 +52,7 @@ void loop()
     {
         MoveAuto();
     }
-    else if (g_state == STATE_STOPPPED)
+    else if (g_state == STATE_STOPPED)
     {
         if (g_soundSensor.strength() > 400)
         {
