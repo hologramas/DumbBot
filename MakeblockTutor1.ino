@@ -1,7 +1,3 @@
-// 
-// MIT License.
-//
-
 //
 // This program was created for a career day demo to first grade children uing a Makerblock starter robot kit (tank).
 // The goal is to ilustrate that a machine controlled by a computer follows the steps given my the programmer, even if the steps do not make sense and that some times you can play with trial an error.
